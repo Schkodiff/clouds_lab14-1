@@ -1,6 +1,6 @@
 +++
 date = '2026-04-08T16:39:16+09:00'
-draft = true
+draft = false
 title = 'The King in Yellow'
 +++
 
