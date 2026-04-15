@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Project</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Apr 2026 16:39:48 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semth</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Wed, 08 Apr 2026 16:39:48 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;p&gt;Smth&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Whisperer in Darkness</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Wed, 08 Apr 2026 16:39:41 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;p&gt;The Whisperer in Darkness is a 26,000-word novella by American writer H. P. Lovecraft. Written February–September 1930, it was first published in Weird Tales, August 1931. Similar to &amp;ldquo;The Colour Out of Space&amp;rdquo; (1927), it is a blend of horror and science fiction. Although it makes numerous references to the Cthulhu Mythos, the story is not a central part of the mythos, but reflects a shift in Lovecraft&amp;rsquo;s writing at this time towards science fiction. The story also introduces the Mi-Go, an extraterrestrial race of fungoid creatures.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The King in Yellow</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 08 Apr 2026 16:39:16 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;The King in Yellow is a short story collection by American writer Robert W. Chambers, first published by F. Tennyson Neely in 1895. The British first edition was published by Chatto &amp;amp; Windus in 1895 (316 pages).&lt;/p&gt;&#xA;&lt;p&gt;The book contains nine short stories and a sequence of poems; while the first stories belong to the genres of supernatural horror and weird fiction, The King in Yellow progressively transitions towards a more light-hearted tone, ending with romantic stories devoid of horror or supernatural elements. The horror stories are highly esteemed, and it has been described by critics such as E. F. Bleiler, S. T. Joshi, and T. E. D. Klein as a classic in the field of the supernatural. Lin Carter called it &amp;ldquo;an absolute masterpiece, probably the single greatest book of weird fantasy written in this country between the death of Poe and the rise of Lovecraft&amp;rdquo;, and it was an influence on Lovecraft himself.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
